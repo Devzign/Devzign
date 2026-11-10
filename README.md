@@ -80,12 +80,7 @@ I’m exploring how software can be more useful, more human, and easier to under
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devzign&show_icons=true&hide_border=true&title_color=00D9FF&icon_color=7C3AED&text_color=CBD5E1&bg_color=0D1117&rank_icon=github" alt="Amit's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devzign&layout=compact&hide_border=true&title_color=00D9FF&text_color=CBD5E1&bg_color=0D1117" alt="Most used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Devzign&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=64748B" alt="GitHub contribution streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devzign&theme=github_dark" alt="Amit's GitHub profile summary" />
 
 </div>
 
