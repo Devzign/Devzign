@@ -1,66 +1,126 @@
-# Amit Singh
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/Devzign"><img src="https://img.shields.io/badge/Founder-Devzign-111827?style=for-the-badge" alt="Founder at Devzign"></a>
-  <a href="https://github.com/Devzign/Devzign"><img src="https://img.shields.io/badge/Building-Devzign-2563eb?style=for-the-badge" alt="Building Devzign"></a>
-</p>
+<img src="./assets/devzign-hero.png" alt="Devzign 3D hero artwork" width="100%" />
 
-## Hey, I'm Amit 👋
+# Amit Sinha
 
-I’m the founder of **[Devzign](https://github.com/Devzign)**, where I’m focused on building thoughtful digital products, practical software, and tools that solve real problems.
+### Founder · Builder · Product-minded technologist
 
-I enjoy working across product thinking, software development, automation, and the details that make technology easier to use.
+<a href="https://github.com/Devzign"><img src="https://img.shields.io/badge/FOUNDER-DEVZIGN-00D9FF?style=for-the-badge&labelColor=111827" alt="Founder of Devzign" /></a>
+<a href="https://github.com/Devzign/Devzign"><img src="https://img.shields.io/badge/BUILDING-IN_PUBLIC-7C3AED?style=for-the-badge&labelColor=111827" alt="Building in public" /></a>
+<a href="https://github.com/Devzign"><img src="https://img.shields.io/github/followers/Devzign?style=for-the-badge&label=FOLLOWERS&labelColor=111827&color=2563EB" alt="GitHub followers" /></a>
+
+<br />
+
+<a href="https://github.com/Devzign">GitHub</a> ·
+<a href="https://github.com/Devzign/Devzign">Devzign</a> ·
+<a href="#connect">Connect</a>
+
+</div>
+
+<br />
+
+## The short version
+
+I’m **Amit**, founder of **[Devzign](https://github.com/Devzign)** — a space for building useful digital products, practical software, and experiments that turn good ideas into working systems.
+
+I care about the intersection of **product thinking, engineering, automation, and experience design**. My goal is simple: make ambitious ideas feel clear, useful, and possible.
 
 ```text
-Founder @ Devzign     Builder     Product-minded developer     Lifelong learner
+01  Imagine clearly        02  Build deliberately        03  Learn continuously        04  Share openly
 ```
 
-## What I’m working on
+## What I’m building
 
-- Building and evolving **[Devzign](https://github.com/Devzign)**
-- Turning ideas into useful, maintainable products
-- Learning in public through code, experiments, and documentation
-- Collaborating with people who care about craft, clarity, and impact
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Featured project
+### ◇ Devzign
 
-### [Devzign](https://github.com/Devzign/Devzign)
+The founder-led studio behind my experiments, products, and open-source work.
 
-The home of my public GitHub profile and a starting point for the Devzign journey.
+<a href="https://github.com/Devzign/Devzign">Explore Devzign →</a>
 
-> More projects, case studies, and technical details will be added here as they become ready to share.
+</td>
+<td width="50%" valign="top">
 
-## My principles
+### ◇ The craft
 
-- Build for people, not just for features.
-- Prefer clear solutions over clever complexity.
-- Ship, learn, improve, repeat.
-- Make the work useful, accessible, and honest.
+I’m exploring how software can be more useful, more human, and easier to understand.
 
-## Let’s connect
+<a href="https://github.com/Devzign">View the work →</a>
 
-I’m always open to thoughtful conversations about products, technology, startups, and collaboration.
+</td>
+</tr>
+</table>
 
-- GitHub: [@Devzign](https://github.com/Devzign)
-- Project: [Devzign](https://github.com/Devzign/Devzign)
-- Email: `your-email@example.com` <!-- Replace this before publishing -->
-- Website: `https://your-website.com` <!-- Replace this before publishing -->
+## Areas I enjoy
 
-## GitHub activity
-
-I use GitHub to document real projects, experiments, and learning. If you find something useful here, feel free to open an issue, suggest an improvement, or start a conversation.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devzign&show_icons=true&hide_border=true&rank_icon=github" alt="Devzign GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devzign&layout=compact&hide_border=true" alt="Devzign most used languages" />
+<p>
+  <img src="https://img.shields.io/badge/Product%20Thinking-111827?style=flat-square&logo=probot&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Software%20Development-111827?style=flat-square&logo=github&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Automation-111827?style=flat-square&logo=zapier&logoColor=FF4A00" />
+  <img src="https://img.shields.io/badge/Experience%20Design-111827?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Building%20in%20Public-111827?style=flat-square&logo=github&logoColor=7C3AED" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devzign&style=flat-square&color=2563eb" alt="Profile views" />
-</p>
+## How I work
 
----
+<table>
+<tr>
+<td align="center" width="25%"><h3>01</h3><b>Clarity</b><br /><sub>Start with the real problem.</sub></td>
+<td align="center" width="25%"><h3>02</h3><b>Craft</b><br /><sub>Make the details count.</sub></td>
+<td align="center" width="25%"><h3>03</h3><b>Momentum</b><br /><sub>Ship, measure, improve.</sub></td>
+<td align="center" width="25%"><h3>04</h3><b>Integrity</b><br /><sub>Build trust through the work.</sub></td>
+</tr>
+</table>
 
-<p align="center">
-  <i>Building with purpose. Learning every day.</i>
-</p>
+## GitHub at a glance
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devzign&show_icons=true&hide_border=true&title_color=00D9FF&icon_color=7C3AED&text_color=CBD5E1&bg_color=0D1117&rank_icon=github" alt="Amit's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devzign&layout=compact&hide_border=true&title_color=00D9FF&text_color=CBD5E1&bg_color=0D1117" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Devzign&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=64748B" alt="GitHub contribution streak" />
+
+</div>
+
+## Selected focus
+
+```yaml
+current_mode: building
+home: Devzign
+focus:
+  - useful products
+  - practical software
+  - automation and systems
+  - thoughtful user experiences
+working_style: curious, intentional, iterative
+```
+
+## Connect
+
+If you’re building something meaningful, exploring an idea, or simply want to exchange notes, I’d be happy to hear from you.
+
+<div id="connect" align="center">
+
+<a href="https://github.com/Devzign"><img src="https://img.shields.io/badge/GitHub-Devzign-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<!-- Replace the placeholders below before publishing. -->
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Say%20hello-111827?style=for-the-badge&logo=gmail" alt="Email" /></a>
+<a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-Visit-111827?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
+
+<br /><br />
+
+<i>Building with purpose. Learning every day.</i>
+
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Devzign&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
