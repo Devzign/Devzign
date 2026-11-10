@@ -109,9 +109,8 @@ If you’re building something meaningful, exploring an idea, or simply want to 
 <div id="connect" align="center">
 
 <a href="https://github.com/Devzign"><img src="https://img.shields.io/badge/GitHub-Devzign-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<!-- Replace the placeholders below before publishing. -->
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Say%20hello-111827?style=for-the-badge&logo=gmail" alt="Email" /></a>
-<a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-Visit-111827?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
+<a href="mailto:amitsinha@devzign.com"><img src="https://img.shields.io/badge/Email-amitsinha%40devzign.com-111827?style=for-the-badge&logo=gmail" alt="Email Amit Sinha" /></a>
+<a href="https://devzign.com"><img src="https://img.shields.io/badge/Website-devzign.com-111827?style=for-the-badge&logo=google-chrome" alt="Devzign website" /></a>
 
 <br /><br />
 
