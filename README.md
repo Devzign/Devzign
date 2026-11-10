@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/devzign-hero.png" alt="Devzign 3D hero artwork" width="100%" />
+<img src="https://raw.githubusercontent.com/Devzign/Devzign/main/assets/devzign-hero.png" alt="Devzign 3D hero artwork" width="100%" />
 
 # Amit Sinha
 
